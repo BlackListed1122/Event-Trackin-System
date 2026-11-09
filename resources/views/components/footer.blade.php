@@ -9,7 +9,7 @@
         <div class="grid lg:grid-cols-1 gap-1">
             <div class="text-center mb-1">
                 <h2 class="text-3xl font-bold">
-                    FAQ
+                    FAQ's
                 </h2>
                 <p class="text-gray-400 text-md mt-2">
                     Everything you need to know about Municipal Event Listings.
